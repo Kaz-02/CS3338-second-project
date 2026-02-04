@@ -1,0 +1,85 @@
+commit 968bb4dd667b420160800cc1eee13c82008c1490
+Merge: 9e834ef 63305b6
+Author: Kazuho Igarashi <kigaras@calstatela.edu>
+Date:   Tue Feb 3 23:02:45 2026 -0800
+
+    Resolve merge conflict
+
+commit 63305b624b49a2f678ba8c17eaf13c1739e5e8b5
+Author: Kazuho Igarashi <kigaras@calstatela.edu>
+Date:   Tue Feb 3 23:00:07 2026 -0800
+
+    Add favorite movie
+
+commit 9e834ef1f7ce805facf8f538472967a6bc402dde
+Author: Kazuho Igarashi <kigaras@calstatela.edu>
+Date:   Tue Feb 3 22:36:41 2026 -0800
+
+    Add favorite food
+
+commit e0dd47228f25910824dcd9884f29ee7deee2042b
+Author: Kazuho Igarashi <kigaras@calstatela.edu>
+Date:   Tue Feb 3 22:34:50 2026 -0800
+
+    Temp commit to clean working tree
+
+commit 10a3f2640a738f0412e9b96929156be74d7e297d
+Author: Kazuho Igarashi <kigaras@calstatela.edu>
+Date:   Tue Feb 3 22:20:33 2026 -0800
+
+    Add favorit food
+
+commit 0ed5b23feaf1175001cede734d84ff8d1063c239
+Author: Kazuho Igarashi <kigaras@calstatela.edu>
+Date:   Tue Feb 3 22:05:10 2026 -0800
+
+    Add README
+
+commit a50a06c44330074ee6d4d7637e73f530eddbeae1
+Merge: 1d2bfc0 560b909
+Author: Kazu <kigarashi002@gmail.com>
+Date:   Tue Feb 3 21:57:57 2026 -0800
+
+    Merge pull request #1 from Kaz-02/info-fill
+    
+    Fill in blanks in index.html
+
+commit 560b90918a8735eafc69b9e92c2ff17237faec15
+Author: Kazuho Igarashi <kigaras@calstatela.edu>
+Date:   Tue Feb 3 21:43:39 2026 -0800
+
+    Fill in blanks in index.html
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
